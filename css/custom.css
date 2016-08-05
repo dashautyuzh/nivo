@@ -135,8 +135,9 @@
   .example-screenshot-wrapper {
     position: absolute;
     width: 48%;
-    height: 100%;
+    height: 75%;
     left: 0;
+    top: 25px;
     max-height: none; }
 }
 
