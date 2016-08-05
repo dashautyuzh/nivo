@@ -115,6 +115,10 @@
   display: none;
 }
 
+.logo-img {
+  width: 250px;
+}
+
 /* Larger than phone */
 @media (min-width: 550px) {
   .header {
